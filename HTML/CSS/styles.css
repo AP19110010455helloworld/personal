@@ -1,0 +1,24 @@
+.myheader {
+  text-align: center;
+  background-color: whitesmoke;
+}
+#title {
+  color: black;
+}
+#profile_picture {
+  border-radius: 50%;
+}
+.profile-pic {
+  border-radius: 100%;
+}
+
+.carousel-item {
+  height: 500px;
+  text-align: center;
+}
+
+.item1 {
+  background-color: dodgerblue;
+  height: 100px;
+  background: url(https://pixabay.com/illustrations/web-network-programming-3706562/);
+}
